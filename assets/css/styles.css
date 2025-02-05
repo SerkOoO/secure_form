@@ -1,0 +1,23 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+
+
+
+.form-login{
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-items: center;
+width: 50%;
+margin: auto;
+
+}
+
+footer{
+    margin-top: auto;
+
+}
+
+

@@ -1,0 +1,4 @@
+importer le fichier le sql, dans le dossier sql.
+modifier le config.ini si besoin
+créer un compte en suivant les instructions pour le mot de passe
+se connecter 
